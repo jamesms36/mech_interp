@@ -5,12 +5,12 @@ These are replications of some results from prominent papers in mechanistic inte
 ### Indirect Object Identification
 This replicates some of the results in the paper [Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small](https://arxiv.org/abs/2211.00593) by Wang et al
 
-### Grokking and Modular Arithmetic
-This completes some of the exercises from from Nanda's [A Mechanistic Interpretability Analysis of Grokking](https://colab.research.google.com/drive/1F6_1_cWXE5M7WocUcpQWp3v8z4b1jL20) and thereby replicates some of the work in [Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)
-
 ### Othello GPT
 This replicates some of the results in the paper [Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task](https://arxiv.org/abs/2210.13382) by Li et al\
 It utilizes some work directly from their accompanying library [Othello World](https://github.com/likenneth/othello_world)
+
+### Grokking and Modular Arithmetic
+This completes some of the exercises from from Nanda's [A Mechanistic Interpretability Analysis of Grokking](https://colab.research.google.com/drive/1F6_1_cWXE5M7WocUcpQWp3v8z4b1jL20) and thereby replicates some of the work in [Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)
 
 ## Other Work
 ### Balanced Bracket Classifier
