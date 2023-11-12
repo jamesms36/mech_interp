@@ -5,6 +5,9 @@ These are replications of some results from prominent papers in mechanistic inte
 ### Indirect Object Identification
 This replicates some of the results in the paper [Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small](https://arxiv.org/abs/2211.00593) by Wang et al
 
+### Toy Model of Superposition
+This replicates some of the results in Anthropic's paper [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html) by Elhage et al
+
 ### Othello GPT
 This replicates some of the results in the paper [Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task](https://arxiv.org/abs/2210.13382) by Li et al\
 It utilizes some work directly from their accompanying library [Othello World](https://github.com/likenneth/othello_world)
