@@ -1,5 +1,5 @@
 # Mechanistic Interpretability Paper Replications
-These are replications of some results from prominent papers in mechanistic interpretability, as well as some other mechanistic interpretability exercises\
+These are replications of some results from prominent papers in mechanistic interpretability, as well as some other mechanistic interpretability exercises
 
 ## Paper Replications
 ### Indirect Object Identification
